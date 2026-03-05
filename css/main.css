@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.title {
+    color: black;
+    font-family: sans-serif;
+    font-size: 30px;
+    text-align: center;
+    padding: 50px;
+}
+
+.text {
+    color: black;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
